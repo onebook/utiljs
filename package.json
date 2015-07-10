@@ -1,0 +1,17 @@
+{
+  "name": "utiljs",
+  "private": true,
+  "version": "0.1.0",
+  "main": "lib",
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": "onebook/utiljs",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "2"
+  }
+}
